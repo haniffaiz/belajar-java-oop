@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat hashCode() method">
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/SocialMedia.java" afterDir="false" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat final class">
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/data/SocialMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/SocialMedia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698939237627</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="membuat final class">
+      <option name="closed" value="true" />
+      <created>1698939453179</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1698939453179</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,6 +371,7 @@
     <MESSAGE value="membuat default method" />
     <MESSAGE value="membuat equals method" />
     <MESSAGE value="membuat hashCode() method" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat hashCode() method" />
+    <MESSAGE value="membuat final class" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat final class" />
   </component>
 </project>
