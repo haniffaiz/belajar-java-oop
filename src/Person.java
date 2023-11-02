@@ -1,3 +1,4 @@
+//hati2 variable shadowing
 public class Person {
     String name;
     String address;
@@ -6,15 +7,14 @@ public class Person {
     Person(String paramName, String paramAddress){
         name = paramName;
         address = paramAddress;
-
     }
 
     Person(String paramName){
-        name = paramName;
+        this(paramName, null);
     }
 
     Person(){
-
+        this(null);
     }
 
     void sayHello(String paramName){
