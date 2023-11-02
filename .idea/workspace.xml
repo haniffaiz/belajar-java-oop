@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat import">
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Location.java" afterDir="false" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat abstract class">
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/application/AnimalApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,20 @@
     "onboarding.tips.debug.path": "C:/Users/hanif/development/java/belajar-java-dasar/belajar-java-oop/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LocationApp">
+  <component name="RunManager" selected="Application.AnimalApp">
+    <configuration name="AnimalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.AnimalApp" />
+      <module name="belajar-java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LocationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.LocationApp" />
       <module name="belajar-java-oop" />
@@ -73,20 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShapeApp" />
-      <module name="belajar-java-oop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalApp" />
         <item itemvalue="Application.LocationApp" />
         <item itemvalue="Application.ParentApp" />
         <item itemvalue="Application.PolymorphismApp" />
         <item itemvalue="Application.ManagerApp" />
-        <item itemvalue="Application.ShapeApp" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698927809505</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="membuat abstract class">
+      <option name="closed" value="true" />
+      <created>1698928123163</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1698928123163</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,6 +275,7 @@
     <MESSAGE value="membuat package" />
     <MESSAGE value="membuat access modifier" />
     <MESSAGE value="membuat import" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat import" />
+    <MESSAGE value="membuat abstract class" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat abstract class" />
   </component>
 </project>
