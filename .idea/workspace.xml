@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat anonymous function">
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/application/StaticApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/util/MathUtil.java" afterDir="false" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat static keyword">
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/application/RecordApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -41,25 +40,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "C:/Users/hanif/development/java/belajar-java-dasar/belajar-java-oop/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/hanif/development/java/belajar-java-dasar/belajar-java-oop/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StaticApp">
+  <component name="RunManager" selected="Application.RecordApp">
     <configuration name="CompanyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.CompanyApp" />
-      <module name="belajar-java-oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmer.zaman.now.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EqualsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.EqualsApp" />
       <module name="belajar-java-oop" />
       <extension name="coverage">
         <pattern>
@@ -97,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RecordApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.RecordApp" />
+      <module name="belajar-java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StaticApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.StaticApp" />
       <module name="belajar-java-oop" />
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecordApp" />
         <item itemvalue="Application.StaticApp" />
         <item itemvalue="Application.HelloWorldApp" />
         <item itemvalue="Application.CompanyApp" />
         <item itemvalue="Application.ProductApp" />
-        <item itemvalue="Application.EqualsApp" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +363,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698944551197</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="membuat static keyword">
+      <option name="closed" value="true" />
+      <created>1698945574089</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1698945574089</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -376,7 +386,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="membuat variable shadowing" />
     <MESSAGE value="this keyword untuk mencegah variable shadowing" />
     <MESSAGE value="membuat inheritance" />
     <MESSAGE value="membuat method overriding" />
@@ -401,6 +410,7 @@
     <MESSAGE value="membuat final method" />
     <MESSAGE value="membuat inner class" />
     <MESSAGE value="membuat anonymous function" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat anonymous function" />
+    <MESSAGE value="membuat static keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat static keyword" />
   </component>
 </project>
