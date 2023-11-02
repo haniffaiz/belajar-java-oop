@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="StackTraceElement Class">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/application/ReadApp.java" afterDir="false" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat Try with Resource">
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/annotation/Fancy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/application/AnimalApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/application/AnimalApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/data/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,7 @@
         <option value="Record" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -422,7 +424,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698950513422</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="membuat Try with Resource">
+      <option name="closed" value="true" />
+      <created>1698951269423</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1698951269423</updated>
+    </task>
+    <task id="LOCAL-00038" summary="membuat Try with Resource">
+      <option name="closed" value="true" />
+      <created>1698951436045</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1698951436045</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,7 +455,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="membuat Polymorphism" />
     <MESSAGE value="membuat type check dan casts" />
     <MESSAGE value="membuat variable hiding" />
     <MESSAGE value="membuat package" />
@@ -462,6 +479,7 @@
     <MESSAGE value="membuat runtimeException" />
     <MESSAGE value="membuat error" />
     <MESSAGE value="StackTraceElement Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="StackTraceElement Class" />
+    <MESSAGE value="membuat Try with Resource" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat Try with Resource" />
   </component>
 </project>
