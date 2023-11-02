@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat runtimeException">
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/application/DatabaseApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/error/DatabaseError.java" afterDir="false" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat error">
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/application/StackTraceApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +45,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DatabaseApp">
+  <component name="RunManager" selected="Application.StackTraceApp">
     <configuration name="DatabaseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.DatabaseApp" />
       <module name="belajar-java-oop" />
@@ -86,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.StaticApp" />
+    <configuration name="StackTraceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.StackTraceApp" />
       <module name="belajar-java-oop" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackTraceApp" />
         <item itemvalue="Application.DatabaseApp" />
         <item itemvalue="Application.ValidationApp" />
         <item itemvalue="Application.EnumApp" />
         <item itemvalue="Application.RecordApp" />
-        <item itemvalue="Application.StaticApp" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +402,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698949274216</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="membuat error">
+      <option name="closed" value="true" />
+      <created>1698949711699</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1698949711699</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -418,7 +425,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="membuat super constructor" />
     <MESSAGE value="membuat object class" />
     <MESSAGE value="membuat Polymorphism" />
     <MESSAGE value="membuat type check dan casts" />
@@ -443,6 +449,7 @@
     <MESSAGE value="membuat enum class" />
     <MESSAGE value="membuat exception" />
     <MESSAGE value="membuat runtimeException" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat runtimeException" />
+    <MESSAGE value="membuat error" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat error" />
   </component>
 </project>
