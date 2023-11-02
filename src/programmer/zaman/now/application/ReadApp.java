@@ -7,7 +7,6 @@ import java.io.IOException;
 public class ReadApp {
     public static void main(String[] args) {
 
-
         try (BufferedReader reader = new BufferedReader(new FileReader("README.md"))){
 
             while (true){
