@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat record class">
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/application/EnumApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Level.java" afterDir="false" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat enum class">
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/application/ValidationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/error/ValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/util/ValidationUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,20 +47,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EnumApp">
-    <configuration name="CompanyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.CompanyApp" />
-      <module name="belajar-java-oop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmer.zaman.now.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ValidationApp">
     <configuration name="EnumApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.EnumApp" />
       <module name="belajar-java-oop" />
@@ -113,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.ValidationApp" />
+      <module name="belajar-java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidationApp" />
         <item itemvalue="Application.EnumApp" />
         <item itemvalue="Application.RecordApp" />
         <item itemvalue="Application.StaticApp" />
         <item itemvalue="Application.HelloWorldApp" />
-        <item itemvalue="Application.CompanyApp" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +380,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698946573680</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="membuat enum class">
+      <option name="closed" value="true" />
+      <created>1698947644811</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1698947644811</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -395,7 +403,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="membuat inheritance" />
     <MESSAGE value="membuat method overriding" />
     <MESSAGE value="membuat super keyword" />
     <MESSAGE value="membuat super constructor" />
@@ -420,6 +427,7 @@
     <MESSAGE value="membuat anonymous function" />
     <MESSAGE value="membuat static keyword" />
     <MESSAGE value="membuat record class" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat record class" />
+    <MESSAGE value="membuat enum class" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat enum class" />
   </component>
 </project>
