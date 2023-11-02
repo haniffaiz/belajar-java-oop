@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat object class">
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PolymorphismApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat Polymorphism">
+      <change beforePath="$PROJECT_DIR$/src/PolymorphismApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PolymorphismApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698922911104</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="membuat Polymorphism">
+      <option name="closed" value="true" />
+      <created>1698925217328</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698925217328</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +198,7 @@
     <MESSAGE value="membuat super keyword" />
     <MESSAGE value="membuat super constructor" />
     <MESSAGE value="membuat object class" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat object class" />
+    <MESSAGE value="membuat Polymorphism" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat Polymorphism" />
   </component>
 </project>
