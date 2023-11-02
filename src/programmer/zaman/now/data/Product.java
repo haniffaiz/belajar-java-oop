@@ -27,7 +27,7 @@ public class Product {
         return Objects.equals(name, product.name);
     }
 
-
+//bisa menggunakan generate dari IDE
 
     //    public  boolean equals(Object o){
 //        if(o == this){
