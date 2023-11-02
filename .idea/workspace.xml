@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat getter setter">
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Avanza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Car.java" afterDir="false" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat interface">
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/HasBrand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -271,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698929617536</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="membuat interface">
+      <option name="closed" value="true" />
+      <created>1698930038214</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1698930038214</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,6 +313,7 @@
     <MESSAGE value="membuat abstract class" />
     <MESSAGE value="membuat abstract method" />
     <MESSAGE value="membuat getter setter" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat getter setter" />
+    <MESSAGE value="membuat interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat interface" />
   </component>
 </project>
