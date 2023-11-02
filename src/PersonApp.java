@@ -1,9 +1,6 @@
 public class PersonApp {
     public static void main(String[] args) {
-        var person1 = new Person();
-        person1.name = "Hanif";
-        person1.address = "Cilacap";
-//        person1.country = "Amerika";
+        var person1 = new Person("Hanif", "Cilacap");
 
 
         System.out.println(person1.name);
