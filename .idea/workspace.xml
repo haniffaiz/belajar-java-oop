@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat constructor overloading">
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-    </list>
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat variable shadowing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,13 +83,22 @@
       <option name="project" value="LOCAL" />
       <updated>1698888373980</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="membuat variable shadowing">
+      <option name="closed" value="true" />
+      <created>1698889133479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698889133479</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init dan membuat method" />
     <MESSAGE value="membuat constructor" />
     <MESSAGE value="membuat constructor overloading" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat constructor overloading" />
+    <MESSAGE value="membuat variable shadowing" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat variable shadowing" />
   </component>
 </project>
