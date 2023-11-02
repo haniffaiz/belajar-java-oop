@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat enum class">
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/application/ValidationApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/error/ValidationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/util/ValidationUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat exception">
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/error/BlankException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -388,7 +385,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698947644811</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="membuat exception">
+      <option name="closed" value="true" />
+      <created>1698948768729</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1698948768729</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +408,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="membuat method overriding" />
     <MESSAGE value="membuat super keyword" />
     <MESSAGE value="membuat super constructor" />
     <MESSAGE value="membuat object class" />
@@ -428,6 +432,7 @@
     <MESSAGE value="membuat static keyword" />
     <MESSAGE value="membuat record class" />
     <MESSAGE value="membuat enum class" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat enum class" />
+    <MESSAGE value="membuat exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat exception" />
   </component>
 </project>
