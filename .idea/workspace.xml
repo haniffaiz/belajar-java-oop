@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat default method">
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/application/EqualsApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat equals method">
       <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/data/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/data/ProductApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/ProductApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -303,7 +300,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698937656621</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="membuat equals method">
+      <option name="closed" value="true" />
+      <created>1698938867456</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1698938867456</updated>
+    </task>
+    <task id="LOCAL-00024" summary="membuat equals method">
+      <option name="closed" value="true" />
+      <created>1698938892570</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1698938892570</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,6 +353,7 @@
     <MESSAGE value="membuat interface" />
     <MESSAGE value="membuat interface inheritance" />
     <MESSAGE value="membuat default method" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat default method" />
+    <MESSAGE value="membuat equals method" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat equals method" />
   </component>
 </project>
