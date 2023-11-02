@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat super constructor" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat object class">
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolymorphismApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +41,7 @@
     "onboarding.tips.debug.path": "C:/Users/hanif/development/java/belajar-java-dasar/belajar-java-oop/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ManagerApp">
+  <component name="RunManager" selected="Application.PolymorphismApp">
     <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ManagerApp" />
       <module name="belajar-java-oop" />
@@ -51,6 +56,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PolymorphismApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolymorphismApp" />
+      <module name="belajar-java-oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShapeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ShapeApp" />
       <module name="belajar-java-oop" />
@@ -60,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PolymorphismApp" />
         <item itemvalue="Application.ManagerApp" />
         <item itemvalue="Application.ShapeApp" />
         <item itemvalue="Application.PersonApp" />
@@ -147,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698922365302</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="membuat object class">
+      <option name="closed" value="true" />
+      <created>1698922911104</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698922911104</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +192,7 @@
     <MESSAGE value="membuat method overriding" />
     <MESSAGE value="membuat super keyword" />
     <MESSAGE value="membuat super constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat super constructor" />
+    <MESSAGE value="membuat object class" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat object class" />
   </component>
 </project>
