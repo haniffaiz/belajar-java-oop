@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat Try with Resource">
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/annotation/Fancy.java" afterDir="false" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat Annotation">
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/annotation/NotBlank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/CreateUserRequest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/application/AnimalApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/application/AnimalApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/data/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/util/ValidationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/util/ValidationUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +21,8 @@
         <option value="Interface" />
         <option value="Record" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,10 +48,11 @@
     "onboarding.tips.debug.path": "C:/Users/hanif/development/java/belajar-java-dasar/belajar-java-oop/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReadApp">
+  <component name="RunManager" selected="Application.ReflactionApp">
     <configuration name="DatabaseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.DatabaseApp" />
       <module name="belajar-java-oop" />
@@ -65,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.EnumApp" />
+    <configuration name="ReadApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.ReadApp" />
       <module name="belajar-java-oop" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.ReadApp" />
+    <configuration name="ReflactionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.ReflactionApp" />
       <module name="belajar-java-oop" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReflactionApp" />
         <item itemvalue="Application.ReadApp" />
         <item itemvalue="Application.StackTraceApp" />
         <item itemvalue="Application.DatabaseApp" />
         <item itemvalue="Application.ValidationApp" />
-        <item itemvalue="Application.EnumApp" />
       </list>
     </recent_temporary>
   </component>
@@ -440,7 +441,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698951436045</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="membuat Annotation">
+      <option name="closed" value="true" />
+      <created>1698952140189</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1698952140189</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -455,7 +464,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="membuat type check dan casts" />
     <MESSAGE value="membuat variable hiding" />
     <MESSAGE value="membuat package" />
     <MESSAGE value="membuat access modifier" />
@@ -480,6 +488,7 @@
     <MESSAGE value="membuat error" />
     <MESSAGE value="StackTraceElement Class" />
     <MESSAGE value="membuat Try with Resource" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat Try with Resource" />
+    <MESSAGE value="membuat Annotation" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat Annotation" />
   </component>
 </project>
