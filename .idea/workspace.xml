@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat interface inheritance">
-      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/data/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Car.java" afterDir="false" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat default method">
+      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/application/EqualsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/data/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/data/ProductApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/ProductApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -39,7 +42,7 @@
     "onboarding.tips.debug.path": "C:/Users/hanif/development/java/belajar-java-dasar/belajar-java-oop/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CarApp">
+  <component name="RunManager" selected="Application.ProductApp">
     <configuration name="AnimalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.AnimalApp" />
       <module name="belajar-java-oop" />
@@ -79,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.LocationApp" />
+    <configuration name="EqualsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.EqualsApp" />
       <module name="belajar-java-oop" />
       <extension name="coverage">
         <pattern>
@@ -92,20 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ParentApp" />
+    <configuration name="ProductApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.data.ProductApp" />
       <module name="belajar-java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductApp" />
+        <item itemvalue="Application.EqualsApp" />
         <item itemvalue="Application.CarApp" />
         <item itemvalue="Application.CategoryApp" />
         <item itemvalue="Application.AnimalApp" />
-        <item itemvalue="Application.LocationApp" />
-        <item itemvalue="Application.ParentApp" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698937252998</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="membuat default method">
+      <option name="closed" value="true" />
+      <created>1698937656621</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1698937656621</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,6 +339,7 @@
     <MESSAGE value="membuat getter setter" />
     <MESSAGE value="membuat interface" />
     <MESSAGE value="membuat interface inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat interface inheritance" />
+    <MESSAGE value="membuat default method" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat default method" />
   </component>
 </project>
