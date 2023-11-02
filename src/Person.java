@@ -9,6 +9,14 @@ public class Person {
 
     }
 
+    Person(String paramName){
+        name = paramName;
+    }
+
+    Person(){
+
+    }
+
     void sayHello(String paramName){
         System.out.println("Hello " + paramName + ", My Name is " + name);
     }
