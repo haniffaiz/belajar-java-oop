@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat interface">
-      <change afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/HasBrand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8b85d224-f870-4312-a2be-94612856d357" name="Changes" comment="membuat interface inheritance">
+      <change beforePath="$PROJECT_DIR$/src/programmer/zaman/now/data/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmer/zaman/now/data/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698930038214</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="membuat interface inheritance">
+      <option name="closed" value="true" />
+      <created>1698937252998</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1698937252998</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -314,6 +321,7 @@
     <MESSAGE value="membuat abstract method" />
     <MESSAGE value="membuat getter setter" />
     <MESSAGE value="membuat interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="membuat interface" />
+    <MESSAGE value="membuat interface inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="membuat interface inheritance" />
   </component>
 </project>
